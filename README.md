@@ -43,7 +43,7 @@
 
 - 🎉 [Pedestrian Detection using OpenCV](https://github.com/Pedestrian-Detection-RRP): Python-based pedestrian detection project with a full walkthrough
 - 🚀 [Machine Learning Malware Detection](https://github.com/VodnalaSrujana004/phishing-website-detection-content-based ): Comparative analysis of machine learning classifiers for malware detection
--🎉 [Text Summarization using NLP](https://github.com/VodnalaSrujana004/Text_Summarization_infosys): Analysis with various datasets, summarize essencial info.
+- 🎓  [Text Summarization using NLP](https://github.com/VodnalaSrujana004/Text_Summarization_infosys): Analysis with various datasets, summarize essencial info.
 ---
 
 ### 🌍 Connect with Me
