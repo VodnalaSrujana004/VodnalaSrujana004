@@ -62,9 +62,12 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=VodnalaSrujana004&label=Profile%20views&color=0e75b6&style=flat" alt="VodnalaSrujana004" />
 </p>
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=dark&hide_border=true" alt="GitHub Streak" />
+  </a>
+</p>
 
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=VodnalaSrujana004&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 
 <!---
