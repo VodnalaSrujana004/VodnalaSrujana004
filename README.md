@@ -3,7 +3,7 @@
   <img src="https://media.licdn.com/dms/image/v2/D5603AQEu2IJ24BNxsw/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1719803922093?e=1753315200&v=beta&t=Y2X9qKbCM2QJ3hhx4I3DF2mmkzYoxEzWdf5YypLuoNM" alt="Profile Banner" width="25%">
 </p>
 
-<h1 align="center">Hi 👋, I'm Srujana Vodnala</h1>
+<h1 align="center">Hi 👋, I'm Vodnala Srujana </h1>
 <p align="center">A passionate learner in Technology and Development 🌟 | SCCSE Community Member 🎓 | B.Tech Student 🚀</p>
 
 <!-- Social Links -->
