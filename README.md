@@ -64,8 +64,6 @@
 
 ## 🛠️ Tech Stack
 
-## 🛠️ Tech Stack
-
 <p align="left">
 
   <!-- AI/ML & NLP -->
