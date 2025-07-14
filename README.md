@@ -3,72 +3,123 @@
   <img src="https://media.licdn.com/dms/image/v2/D5603AQEu2IJ24BNxsw/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1719803922093?e=1753315200&v=beta&t=Y2X9qKbCM2QJ3hhx4I3DF2mmkzYoxEzWdf5YypLuoNM" alt="Profile Banner" width="25%">
 </p>
 
-<h1 align="center">Hi 👋, I'm Vodnala Srujana </h1>
-<p align="center">A passionate learner in Technology and Development 🌟 | SCCSE Community Member 🎓 | B.Tech Student 🚀</p>
+<h1 align="center">Hi 👋, I'm Vodnala Srujana</h1>
+<p align="center">A passionate learner in Technology and Development 🌟 | SCCSE Community Member 🎓 | Co-Founder at BINGI BYTE 🚀| B.Tech CSE @ JNTUH UCEJ 🚀</p>
 
 <!-- Social Links -->
 <p align="center">
   <a href="https://www.linkedin.com/in/vodnala-srujana-272a06278/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="vodnalasrujana29@gmail.com" target="_blank">
+  <a href="mailto:vodnalasrujana29@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-
   </a>
 </p>
 
 ---
 
-### 👀 About Me
+## 👩‍💻 About Me
 
-- 🌱 **Currently Learning:** Operating Systems, Design and Analysis of Algorithms, Cybersecurity, Machine Learning, and Database Management Systems
-- 👀 **Interests:** Data Science, Software Development, Cyber security, and Web Development
-- 👥 **Communities:** SCCSE Community, Infosys Springboard AI Internship Group Leader
+🎓 Final-year Computer Science Engineering student at JNTUH UCEJ  
+💡 Passionate about building intelligent, scalable systems using AI, Web Technologies, and Cybersecurity  
+🔍 Currently exploring NLP, Full-Stack Development, and ML model optimization  
+🌱 Learning: OS, DAA, Cybersecurity, ML, DBMS  
+👥 Communities: SO CALLED CS ENGINEERS, BINGI BYTE 
 
-### 🛠️ Skills & Tools
+---
+
+## 🧠 Domains of Interest
+- 🤖 Artificial Intelligence & Machine Learning  
+- 🌐 Full Stack Web Development (MERN)  
+- 🛡️ Cybersecurity and Ethical Hacking  
+- 📊 Data Analysis & Visualization  
+
+---
+
+## 💼 Internships
+
+- **AI Intern – TechSaksham (Microsoft x SAP)**  
+  🔹 Developed a [Spam Detection System](https://vodnalasrujana004-spam-detect-nlp-spamdetector-ymifus.streamlit.app/) using NLP + ML
+
+- **AI Intern – Infosys Springboard**  
+  🔹 Built a [Text Summarization App](https://prabhjotschugh-text-summarization.onrender.com/) with Transformers & T5 NLP Model
+
+---
+
+## 🚀 Projects
+
+- 🛍️ **[Shoe World (MERN E-commerce)](https://shoe-world-client.vercel.app/)**  
+  Full-stack platform with product listings, cart, admin panel
+
+- 🚶‍♀️ **[Pedestrian Detection](https://github.com/VodnalaSrujana004/Pedestrian-Detection-RRP)**  
+  ML-based vision system using OpenCV to detect pedestrians
+
+- 🧠 **[Text Summarization](https://github.com/VodnalaSrujana004/Text_Summarization_infosys)**  
+  Uses NLP (abstractive + extractive) on news/articles
+
+- 🛡️ **[Phishing Website Detection](https://github.com/VodnalaSrujana004/phishing-website-detection-content-based)**  
+  ML classifier-based detection model for phishing threats
+
+---
+
+## 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
 </p>
 
 ---
 
-### 🌐 Projects & Contributions
+## 🏆 Achievements
 
-- 🎉 [Pedestrian Detection using OpenCV](https://github.com/VodnalaSrujana004/Pedestrian-Detection-RRP): Python-based pedestrian detection project with a full walkthrough
-- 🚀 [Machine Learning Malware Detection](https://github.com/VodnalaSrujana004/phishing-website-detection-content-based ): Comparative analysis of machine learning classifiers for malware detection
-- 🎓  [Text Summarization using NLP](https://github.com/VodnalaSrujana004/Text_Summarization_infosys): Analysis with various datasets, summarize essencial info.
+- 🎯 Finalist – NASA Space Apps Hackathon 2024  
+- 🥈 Smart India Hackathon – Twice College Level Finalist  
+- 🥉 27th Place – Mercer | Mettl National Hackathon  
+- 🥇 Silver Campus Ambassador – Let’s Upgrade  
+
 ---
 
-### 🌍 Connect with Me
+## 📫 Let's Connect
 
 <p align="left">
   <a href="https://www.linkedin.com/in/vodnala-srujana-272a06278/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="https://github.com/VodnalaSrujana004" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  <a href="mailto:vodnalasrujana29@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
 
 ---
 
+## 📊 GitHub Stats & Activity
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=VodnalaSrujana004&label=Profile%20views&color=0e75b6&style=flat" alt="VodnalaSrujana004" />
+  <img src="https://komarev.com/ghpvc/?username=VodnalaSrujana004&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
 </p>
 <p align="center">
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com?user=VodnalaSrujana004&theme=dark&hide_border=true" alt="GitHub Streak" />
   </a>
 </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VodnalaSrujana004&layout=compact&theme=radical" alt="Top Languages"/>
+</p>
 
+---
 
+> _“In a world full of static pages, I aim to build intelligent, adaptive systems.”_
 
 <!---
 VodnalaSrujana004/VodnalaSrujana004 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
