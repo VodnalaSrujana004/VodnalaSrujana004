@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Vodnala Srujana</h1>
-<p align="center">A passionate learner in Technology and Development 🌟 | SCCSE Community Member 🎓 | Co-Founder at BINGI BYTE 🚀| B.Tech CSE @ JNTUH UCEJ 🚀</p>
+<p align="center">A passionate learner in Technology and Development 🌟 | SCCSE Community Manager 🚀 | Co-Founder at BINGI BYTE 🚀| B.Tech CSE @ JNTUH UCEJ 🎓</p>
 
 <!-- Social Links -->
 <p align="center">
