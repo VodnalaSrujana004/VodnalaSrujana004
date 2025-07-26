@@ -1,6 +1,6 @@
 <!-- Profile Header with a Cool Banner -->
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D5603AQEu2IJ24BNxsw/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1719803922093?e=1753315200&v=beta&t=Y2X9qKbCM2QJ3hhx4I3DF2mmkzYoxEzWdf5YypLuoNM" alt="Profile Banner" width="25%">
+  <img src="https://media.licdn.com/dms/image/v2/D5603AQEu2IJ24BNxsw/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1719803922093?e=1756339200&v=beta&t=qoP6BztjNFIGxNX2ubgUWMSIL1TCDCCfIPY2TbIYLNc" alt="Profile Banner" width="25%">
 </p>
 
 <h1 align="center">Hi 👋, I'm Vodnala Srujana</h1>
