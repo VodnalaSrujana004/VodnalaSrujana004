@@ -147,7 +147,7 @@ motto: "In a world full of static pages, I build intelligent, adaptive systems."
 ---
 
 <p align="center"><i>
-  “Code is poetry. Let’s make it sing.”
+  “Start Small, Win Big!”
 </i></p>
 
 <!---
