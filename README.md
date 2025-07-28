@@ -193,35 +193,29 @@
 
 ---
 
-## 🚀 GitHub Rockstar Stats & Activity
+## 🚀 GitHub Stats & Activity
 
 <p align="center">
   <!-- Profile Views Counter -->
-  <img src="https://komarev.com/ghpvc/?username=VodnalaSrujana004&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=VodnalaSrujana004&label=Profile%20views&color=ff9800&style=flat" alt="Profile views"/>
 </p>
 
 <p align="center">
   <!-- GitHub Streak Stats -->
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=VodnalaSrujana004&theme=blueberry&hide_border=true&mode=weekly" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com?user=VodnalaSrujana004&theme=orange&hide_border=true" alt="GitHub Streak" />
   </a>
 </p>
 
 <p align="center">
   <!-- GitHub Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=VodnalaSrujana004&show_icons=true&theme=blueberry&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=VodnalaSrujana004&show_icons=true&theme=orange&hide_border=true" alt="GitHub Stats"/>
 </p>
 
 <p align="center">
   <!-- Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VodnalaSrujana004&layout=compact&theme=blueberry&hide_border=true" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VodnalaSrujana004&layout=compact&theme=orange&hide_border=true" alt="Top Languages"/>
 </p>
-
-<p align="center">
-  <!-- GitHub Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VodnalaSrujana004&theme=blueberry&hide_border=true" alt="GitHub Activity Graph"/>
-</p>
-
 ---
 
 <p align="center">
