@@ -192,7 +192,6 @@
 </p>
 
 ---
-
 ## 📊 GitHub Stats & Activity
 
 <p align="center">
@@ -200,36 +199,31 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/VodnalaSrujana004">
-    <img src="https://github-readme-stats.vercel.app/api?username=VodnalaSrujana004&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  </a>
-</p>
-
-<p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=VodnalaSrujana004&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com?user=VodnalaSrujana004&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VodnalaSrujana004&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=VodnalaSrujana004&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=0e75b6&icon_color=0e75b6" alt="GitHub Stats"/>
 </p>
 
 <p align="center">
-  <a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VodnalaSrujana004&theme=radical">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VodnalaSrujana004&theme=radical" alt="Profile Details"/>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VodnalaSrujana004&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=0e75b6" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=VodnalaSrujana004&theme=radical&row=1&column=7&no-bg=true&margin-w=15&margin-h=15" alt="Trophies"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VodnalaSrujana004&theme=github_dark" alt="Profile Details"/>
 </p>
 
-<!-- Advanced activity graph -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VodnalaSrujana004&theme=radical&hide_border=true" alt="Activity Graph"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=VodnalaSrujana004&theme=darkhub&title=Stars,Followers,Commit,Issues&margin-w=15&margin-h=15" alt="Trophies"/>
 </p>
 
+<!-- Advanced GitHub Stats Widgets: 
+- Using dark blue and github-dark themes for consistent modern look.
+- Includes streak stats, overall stats, top languages, summary card, and trophies.
+-->
 ---
 
 > _“In a world full of static pages, I aim to build intelligent, adaptive systems.”_
