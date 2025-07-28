@@ -196,29 +196,23 @@
 ## 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=VodnalaSrujana004&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=VodnalaSrujana004&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-<div align="center">
-  
-  <!-- GitHub Streak Stats -->
-  [![GitHub Streak](https://streak-stats.demolab.com?user=VodnalaSrujana004&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-  
-  <!-- GitHub Stats Card -->
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VodnalaSrujana004&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-  
-  <!-- Top Languages Card -->
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VodnalaSrujana004&layout=compact&theme=tokyonight&hide_border=true)
-
-  <!-- GitHub Activity Graph -->
-  [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=VodnalaSrujana004&theme=tokyonight&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
-<!-- GitHub Trophies -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=VodnalaSrujana004&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
+  <a href="https://github.com/VodnalaSrujana004">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=VodnalaSrujana004&theme=blueberry&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+  </a>
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VodnalaSrujana004&show_icons=true&theme=blueberry&hide_border=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VodnalaSrujana004&layout=compact&theme=blueberry&hide_border=true" alt="Top Languages" />
+</p>
+
 
 ---
 
