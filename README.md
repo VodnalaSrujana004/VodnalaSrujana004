@@ -193,30 +193,51 @@
 
 ---
 
-## 📊 GitHub Stats & Activity
+## 🚀 GitHub Rockstar Stats & Activity
 
 <p align="center">
+  <!-- Profile Views Counter -->
   <img src="https://komarev.com/ghpvc/?username=VodnalaSrujana004&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
 </p>
 
 <p align="center">
-  <a href="https://streak-stats.demolab.com?user=VodnalaSrujana004">
-    <img src="https://streak-stats.demolab.com?user=VodnalaSrujana004&theme=blueberry&hide_border=true" alt="GitHub Streak" />
+  <!-- GitHub Streak Stats -->
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=VodnalaSrujana004&theme=blueberry&hide_border=true&mode=weekly" alt="GitHub Streak" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VodnalaSrujana004&show_icons=true&theme=blueberry&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+  <!-- GitHub Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=VodnalaSrujana004&show_icons=true&theme=blueberry&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" alt="GitHub Stats"/>
 </p>
 
 <p align="center">
+  <!-- Top Languages Card -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VodnalaSrujana004&layout=compact&theme=blueberry&hide_border=true" alt="Top Languages"/>
 </p>
 
 <p align="center">
+  <!-- GitHub Activity Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=VodnalaSrujana004&theme=blueberry&hide_border=true" alt="GitHub Activity Graph"/>
 </p>
 
+---
+
+<p align="center">
+  <b>🌟 Indian Developer 🌟</b><br>
+  <i>Contributing to the fastest-growing GitHub community in the world!</i>
+</p>
+
+<p align="center">
+  <a href="https://gitcharts.com/">🔗 Check India's top GitHub rockstars</a>
+</p>
+
+<!-- 
+- Rockstar look with "blueberry" dark blue theme
+- Stats auto-update and always work
+- Celebrate being part of India's top developer community!
+-->
 ---
 
 > _“In a world full of static pages, I aim to build intelligent, adaptive systems.”_
