@@ -202,14 +202,14 @@
 
 <p align="center">
   <!-- GitHub Streak Stats -->
-  <a href="https://streak-stats.demolab.com?user=VodnalaSrujana004">
-    <img src="https://streak-stats.demolab.com?user=VodnalaSrujana004&theme=blueberry&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=VodnalaSrujana004&theme=blueberry&hide_border=true" alt="GitHub Streak" />
   </a>
 </p>
 
 <p align="center">
   <!-- GitHub Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=VodnalaSrujana004&show_icons=true&theme=blueberry&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=VodnalaSrujana004&show_icons=true&theme=blueberry&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
 </p>
 
 <p align="center">
