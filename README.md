@@ -196,23 +196,22 @@
 ## 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=VodnalaSrujana004&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=VodnalaSrujana004&label=Profile%20views&color=ff9800&style=flat" alt="Profile Views" />
 </p>
 
 <p align="center">
   <a href="https://github.com/VodnalaSrujana004">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=VodnalaSrujana004&theme=blueberry&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=VodnalaSrujana004&theme=orange&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VodnalaSrujana004&show_icons=true&theme=blueberry&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=VodnalaSrujana004&show_icons=true&theme=orange&hide_border=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VodnalaSrujana004&layout=compact&theme=blueberry&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VodnalaSrujana004&layout=compact&theme=orange&hide_border=true" alt="Top Languages" />
 </p>
-
 
 
 
