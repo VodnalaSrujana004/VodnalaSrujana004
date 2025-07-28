@@ -214,7 +214,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VodnalaSrujana004&theme=orange&hide_border=true" alt="GitHub Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VodnalaSrujana004&theme=gruvbox&hide_border=true" alt="GitHub Contribution Graph"/>
 </p>
 
 ---
