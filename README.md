@@ -121,6 +121,7 @@ motto: "In a world full of static pages, I build intelligent, adaptive systems."
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=VodnalaSrujana004&theme=gruvbox&hide_border=true" alt="Activity Graph"/>
 </p>
 
+
 ---
 
 ## 🤝 Connect & Collaborate
