@@ -34,7 +34,7 @@ motto: "In a world full of static pages, I build intelligent, adaptive systems."
 ## 🛠️ Tech Toolbox
 
 ### 💻 Programming Languages
-`C` | `Python` | `HTML` | `CSS` | `JavaScript` | `SQL`
+`C` | `Python` | `HTML` | `CSS` | `JavaScript` | `SQL` | `Java`
 
 ### ⚡ Frameworks & Libraries
 `NumPy` | `Pandas` | `Matplotlib` | `Seaborn` | `React.js` | `Node.js`
