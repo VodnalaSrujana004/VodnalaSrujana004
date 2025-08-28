@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D5603AQEu2IJ24BNxsw/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1719803922093?e=1756339200&v=beta&t=qoP6BztjNFIGxNX2ubgUWMSIL1TCDCCfIPY2TbIYLNc" alt="Vodnala Srujana" width="25%">
+  <img src="https://media.licdn.com/dms/image/v2/D5603AQEu2IJ24BNxsw/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1719803922093?e=1759363200&v=beta&t=TN-AHNDxVFnTTwnxO8kwqq0UOfQXTVSPM2xJqmQPTXk" alt="Vodnala Srujana" width="25%">
 </p>
 
 <h1 align="center">Vodnala Srujana 🚀</h1>
