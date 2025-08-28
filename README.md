@@ -112,7 +112,8 @@ motto: "In a world full of static pages, I build intelligent, adaptive systems."
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=VodnalaSrujana004&label=Profile%20views&color=ffa500&style=flat" alt="Profile Views" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=VodnalaSrujana004&theme=dark&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=VodnalaSrujana004&theme=dark&hide_border=true"
+         alt="GitHub Streak" title="GitHub Streak" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api?username=VodnalaSrujana004&show_icons=true&theme=orange&hide_border=true" alt="Stats" />
   <br/>
